@@ -54,7 +54,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <img src="https://github-profile-trophy.vercel.app/?username=Arun-kumar-fw20-0202&theme=onedark&background=000000"/>
 </div> 
 <br/>
-<hr/>
 <br/>
 <div align="center" display="flex" style="justify-content:space-evenly;">
   <img src="https://github-readme-stats.vercel.app/api?username=Arun-kumar-fw20-0202&show_icons=true&theme=dark&background=000000"/>
@@ -65,6 +64,28 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <br/>
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=Arun-kumar-fw20-0202&theme=dark"/>
+ 
+ 
+ <br />
+ <br />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Arun-kumar-fw20-0202&theme=radical" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arun-kumar-fw20-0202&theme=radical" alt="summarycard"/> </p>
+<br>
+<br>
+<br>
+<hr />
+ <h3 align="center"> 
+  Visitor count <br>
+  <!-- <img src="https://profile-counter.glitch.me/4shutoshbhardwaj/count.svg" /> -->
+  <img src="https://profile-counter.glitch.me/surajahirwar/count.svg" />
+ </h3>
+ <br />
+ <br />
+ 
+<a href="https://google.com" align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</a>
+ 
 </div>   
 
 
