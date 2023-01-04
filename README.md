@@ -85,6 +85,4 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </a>
  
-</div>   
-
-
+</div>  
